@@ -1,0 +1,14 @@
+Package: jmlR.toolbox
+Title: J.M. Lietaer's Personal R Toolbox
+Version: 0.0.4.9000
+Date: 2017-11-29
+Authors@R: person("J.M.", "Lietaer", email = "jmlietaer.tech@gmail.com", role = c("aut", "cre"))
+Description: Cfr. Help files.
+Depends: 
+   R (>= 3.0.0),
+   utils,
+   stringr
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
